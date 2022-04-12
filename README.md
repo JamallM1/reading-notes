@@ -1,8 +1,8 @@
 # Reading-notes
-**Jamall Malik** 
-- Hometown: North Augusta, SC
-- Hobbies: Traveling, Watching Greys Anatomy, and Learning
-- Goals: To recieve an six-figure offer as an Software Developer
+**Jamall Malik Gainesville, FL EST** 
+- United States Air Force, Health Admin
+- IOS 12.2.1
+- I'm excited about becoming a Software Developer
 
 # Growth Mindset #
 **I believe that growth mindset is having a posotive outlook on the process or journey you're going through**
