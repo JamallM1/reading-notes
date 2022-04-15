@@ -20,8 +20,8 @@ journey you're going through**
 
 - [Class 1](Class1.md)
 
-- [Class 2](https://github.com/JamallM1/reading-notes.git/Class2.md)
+- [Class 2](Class2.md)
 
-- [Class 3](https://github.com/JamallM1/reading-notes.git/class3.md)
+- [Class 3](class3.md)
 
-- [Class 4](https://github.com/JamallM1/reading-notes.git/class4.md)
+- [Class 4](class4.md)
