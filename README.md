@@ -18,7 +18,7 @@ journey you're going through**
 
 # Table of Contents
 
-- [Class 1](https://github.com/JamallM1/reading-notes.git/Class1.md)
+- [Class 1](Class1.md)
 
 - [Class 2](https://github.com/JamallM1/reading-notes.git/Class2.md)
 
